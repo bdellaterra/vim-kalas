@@ -1,2 +1,4 @@
 # vim-kalas
-Sixteen
+Sixteen Colors
+
+A dark colorsheme using the base terminal colors
